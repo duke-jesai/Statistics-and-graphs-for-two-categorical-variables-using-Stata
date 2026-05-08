@@ -1,4 +1,4 @@
-# Statistics-and-graphs-for-two-categorical-variables-using-Stata
+# Gender Differences in Attitudes Toward Abortion (Stata Analysis)
 Cross-tabulation Chi-squared test .Degrees of freedom. Probability tables Percentages and measures of association Odds ratios when dependent variable has two categories Ordered categorical variables Interactive tables Tables linking categorical and quantitative variables Power analysis using a chi-squared test of significance
 # I did a cross tabulation of gender Vs abany to determine the relationship between gender and accepting abortion for any reason. 
 tabulate sex abany, row
